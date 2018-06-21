@@ -53,6 +53,8 @@ The configuration object can contain any of the above.
 
 Example, Also you use this thing like button text changes wish to use 'Added to bag' as button label when the item has been added to the cart, use the following code:
 
-```Shopify.AjaxifyCart.init({ 
-  addedToCartBtnLabel: 'Added to bag' 
-```});
+```javascript
+Shopify.AjaxifyCart.init({ 
+  		addedToCartBtnLabel: 'Added to bag' 
+});
+```
