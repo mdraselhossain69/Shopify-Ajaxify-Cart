@@ -55,6 +55,6 @@ Example, Also you use this thing like button text changes wish to use 'Added to 
 
 ```javascript
 Shopify.AjaxifyCart.init({ 
-  		addedToCartBtnLabel: 'Added to bag' 
+  addedToCartBtnLabel: 'Added to bag' 
 });
 ```
