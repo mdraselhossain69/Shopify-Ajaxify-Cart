@@ -1,4 +1,4 @@
-# Shopify Ajaxify Cart
+# Shopify Ajaxify Cart (Shopify Add to Cart Ajax)
 You need to download ajaxify-cart.liquid and upload your snippets folder then include the ajaxify-cart snippet in your theme by copy and paste the code below in your theme.liquid file right above your closing `</body>` tag:
 
 {% include 'ajaxify-cart' %}
